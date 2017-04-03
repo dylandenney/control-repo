@@ -50,3 +50,7 @@ mod "puppetlabs-reboot"
 mod "removefiles",
     :git => "git@github.com:dylandenney/removefile.git",
     :ref => 'master'
+
+mod "pci_user",
+    :git => "git@github.com:dylandenney/pci_user.git",
+    :ref => 'master'
