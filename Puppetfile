@@ -1,4 +1,3 @@
-#GlobalPayments
 forge "http://forge.puppetlabs.com"
 # Modules from the Puppet Forge
 mod "puppetlabs/stdlib"
@@ -18,7 +17,7 @@ mod "razorsedge/snmp"
 mod "puppetlabs/ntp"
 mod "dgutierrez1287/centrify"
 mod "puppetlabs/windows"
-mod "puppetlabs/sqlserver"
+#mod "puppetlabs/sqlserver"
 mod "CraigWatson1987/vmwaretools"
 mod "herculesteam/augeasproviders_grub"
 mod "chocolatey/chocolatey"
