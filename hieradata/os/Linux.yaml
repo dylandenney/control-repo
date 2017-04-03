@@ -1,4 +1,4 @@
 ---
 classes:
-  - pupcron
-  - puppetclean
+    #  - pupcron
+    #  - puppetclean

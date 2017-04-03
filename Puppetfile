@@ -28,7 +28,7 @@ mod "hunner/hiera"
 mod "camptocamp/systemd"
 mod "puppetlabs/apache"
 mod "puppetlabs-reboot"
-mod 'walkamongus-realmd', '0.1.3'
+#mod 'walkamongus-realmd', '0.1.3'
 # Modules from Gitlab using various references
 #mod "nginx",
 #  :git => "git@gitlab.example.com:admins/nginx.git
@@ -37,14 +37,14 @@ mod 'walkamongus-realmd', '0.1.3'
 #   :git => "git@gitlab.gpn.globalpay.com:puppetrepos/root.git",
 #   :ref => 'master'
 
-mod "pupcron",
-    :git => "git@gitlab.gpn.globalpay.com:puppetrepos/pupcron.git",
-    :ref => 'master'
+#mod "pupcron",
+#    :git => "git@gitlab.gpn.globalpay.com:puppetrepos/pupcron.git",
+#    :ref => 'master'
 
-mod "puppetclean",
-    :git => "git@gitlab.gpn.globalpay.com:puppetrepos/puppetclean.git",
-    :ref => 'master'
+#mod "puppetclean",
+#    :git => "git@gitlab.gpn.globalpay.com:puppetrepos/puppetclean.git",
+#    :ref => 'master'
 
-mod "myfacts",
-    :git => "git@gitlab.gpn.globalpay.com:puppetrepos/myfacts.git",
-    :ref => 'master'
+#mod "myfacts",
+#    :git => "git@gitlab.gpn.globalpay.com:puppetrepos/myfacts.git",
+#    :ref => 'master'
