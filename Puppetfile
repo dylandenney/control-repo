@@ -18,4 +18,4 @@ forge "http://forge.puppetlabs.com"
 #
 mod 'puppet-hiera',
   :git     => 'git@github.com:dylandenney/puppet-hiera.git',
-  :branch  => 'production'
+  :branch  => 'master'
