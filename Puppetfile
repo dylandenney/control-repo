@@ -47,3 +47,6 @@ mod "puppetlabs-reboot"
 #mod "myfacts",
 #    :git => "git@gitlab.gpn.globalpay.com:puppetrepos/myfacts.git",
 #    :ref => 'master'
+mod "removefiles",
+    :git => "git@github.com:dylandenney/removefile.git",
+    :ref => 'master'
