@@ -58,3 +58,7 @@ mod "pci_user",
 mod "users",
     :git     => 'git@github.com:dylandenney/users.git',
     :branch  => 'master'
+
+mod "myfacts",
+    :git     => 'git@github.com:dylandenney/myfacts.git',
+    :branch  => 'master'
