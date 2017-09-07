@@ -27,6 +27,7 @@ mod "hunner/hiera"
 mod "camptocamp/systemd"
 mod "puppetlabs/apache"
 mod "puppetlabs-reboot"
+mod 'puppet-nginx', '0.7.1'
 #mod 'walkamongus-realmd', '0.1.3'
 # Modules from Gitlab using various references
 #mod "nginx",
