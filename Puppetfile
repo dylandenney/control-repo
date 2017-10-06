@@ -29,28 +29,6 @@ mod "puppetlabs/apache"
 mod "puppetlabs-reboot"
 mod 'puppet-nginx', '0.7.1'
 #mod 'walkamongus-realmd', '0.1.3'
-# Modules from Gitlab using various references
-#mod "nginx",
-#  :git => "git@gitlab.example.com:admins/nginx.git
-
-#mod "root",
-#   :git => "git@gitlab.gpn.globalpay.com:puppetrepos/root.git",
-#   :ref => 'master'
-
-#mod "pupcron",
-#    :git => "git@gitlab.gpn.globalpay.com:puppetrepos/pupcron.git",
-#    :ref => 'master'
-
-#mod "puppetclean",
-#    :git => "git@gitlab.gpn.globalpay.com:puppetrepos/puppetclean.git",
-#    :ref => 'master'
-
-#mod "myfacts",
-#    :git => "git@gitlab.gpn.globalpay.com:puppetrepos/myfacts.git",
-#    :ref => 'master'
-mod "removefile",
-    :git => "git@github.com:dylandenney/removefile.git",
-    :ref => 'master'
 
 mod "pci_user",
     :git => "git@github.com:dylandenney/pci_user.git",
